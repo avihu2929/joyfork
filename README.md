@@ -1,3 +1,5 @@
+see AutoLoad.cpp for changes , using xdotool to detect windows on linux
+
 # JoyShockMapper
 The Sony PlayStation DualSense, DualShock 4, Nintendo Switch JoyCons (used in pairs), and Nintendo Switch Pro Controller have much in common. They have many of the features expected of modern game controllers. They also have an incredibly versatile and underutilised input that their biggest rival (Microsoft's Xbox One controller) doesn't have: a 3-axis gyroscope (from here on, “gyro”).
 
